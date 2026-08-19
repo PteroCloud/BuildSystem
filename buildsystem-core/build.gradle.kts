@@ -144,7 +144,7 @@ bukkit {
     website = "https://buildsystem.eintosti.de"
 
     main = "de.eintosti.buildsystem.BuildSystemPlugin"
-    apiVersion = "26.1"
+    apiVersion = "26.2"
     softDepend = listOf("LuckPerms", "PlaceholderAPI", "WorldEdit", "AxiomPaper")
 
     commands {
